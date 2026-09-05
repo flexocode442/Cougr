@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "bounty/issue-321-studio-board",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "bounty/issue-321-studio-board": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "bounty/issue-321-studio-board",
+    "origin"
+  ]
+}
